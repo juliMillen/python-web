@@ -1,5 +1,12 @@
 *.db
+.env
+.DS_Store
 assets/external/
 .web
 __pycache__/
 *.py[cod]
+.log
+reflex.log
+reflex.db
+reflex/compiled/
+reflex/static
