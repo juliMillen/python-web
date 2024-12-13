@@ -8,6 +8,7 @@ def footer() -> rx.Component:
             f"©️ 2024-{datetime.date.today().year} Julian Millen.",
             href="https://www.linkedin.com/in/julianmillen/",
             is_external=True
+            
         ),
         rx.text("Aprendiendo y creando software con ❤️ de Paraná hacia el mundo.")
     )
